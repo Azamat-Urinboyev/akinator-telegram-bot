@@ -10,6 +10,8 @@ According to your answer the game changes question and finally after couple of q
 
 ## How to run telegram bot
 1. First you should get Token for your bot from [Botfather](https://telegram.me/BotFather)
-2. Second export the Environmental variables which are (TOKEN,ADMIN,ADMIN_PASSWORD)
-like (>> export TOKEN=something)
+2. Second export the Environmental variables which are (TOKEN,ADMIN,ADMIN_PASSWORD)  
+      TOKEN = Bot token  
+      ADMIN = admin's telegram id number  
+      ADMIN_PASSWORD = password to initialize admin commands  
 3. run the main.py file
